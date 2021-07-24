@@ -4,13 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Kasim Adalan udemy flutter ile mobil uygulama gelistirme kursundan alinmistir. Firebase ile internet tabanli uygulama calismasidir. Veritabanina kayitli filmleri kategorilerine göre siniflandirma islemi yapmaktadir.
 
-A few resources to get you started if this is your first Flutter project:
+- [Kasim Adalan Udemy Firebase Filmler Uygulamasi](https://flutter.dev/docs/get-started/codelab)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![filmler_1](https://user-images.githubusercontent.com/57287432/126870781-d8cd9fed-2cba-4b3b-992a-ecdbcf7f3df6.gif)
