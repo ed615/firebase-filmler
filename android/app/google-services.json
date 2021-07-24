@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "236103504030",
+    "firebase_url": "https://flutterbir-default-rtdb.firebaseio.com",
+    "project_id": "flutterbir",
+    "storage_bucket": "flutterbir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236103504030:android:0a6e7d5b87b4b86da0ab8f",
+        "android_client_info": {
+          "package_name": "com.example.dort_filmler_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236103504030-l06il9hkir9f60uncdm37029rtdlnknl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzDqizPr3HvNjydxwEi8o0KKngkUKrWbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236103504030-l06il9hkir9f60uncdm37029rtdlnknl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
